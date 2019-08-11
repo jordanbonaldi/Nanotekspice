@@ -1,0 +1,2 @@
+# Nanotekspice
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9a93c4453d014a2ea5ef32fdd631a6d4)](https://app.codacy.com/app/jordanbonaldi/Nanotekspice?utm_source=github.com&utm_medium=referral&utm_content=jordanbonaldi/Nanotekspice&utm_campaign=Badge_Grade_Dashboard)
